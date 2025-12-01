@@ -183,7 +183,7 @@ export default function Home() {
                 24/7 Availability
               </h3>
               <p className="text-gray-600">
-                Need a ride anytime? We're available around the clock.
+                Need a ride anytime? We&apos;re available around the clock.
               </p>
             </div>
           </div>
@@ -374,7 +374,7 @@ export default function Home() {
                 <AccordionContent>
                   Simply download the app, sign up with your phone number, enter
                   your destination, choose your preferred vehicle type, and
-                  confirm your ride. You'll see the fare upfront before
+                  confirm your ride. You&apos;ll see the fare upfront before
                   booking.
                 </AccordionContent>
               </AccordionItem>
@@ -395,7 +395,7 @@ export default function Home() {
                 <AccordionContent>
                   On average, drivers arrive within 5 minutes. The exact time
                   depends on your location and traffic conditions. You can track
-                  your driver's arrival in real-time through the app.
+                  your driver&apos;s arrival in real-time through the app.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-4">
@@ -424,7 +424,7 @@ export default function Home() {
                 </AccordionTrigger>
                 <AccordionContent>
                   We currently operate in major cities across Bangladesh
-                  including Dhaka, Chattogram, Sylhet, and more. We're
+                  including Dhaka, Chattogram, Sylhet, and more. We&apos;re
                   continuously expanding to serve more areas.
                 </AccordionContent>
               </AccordionItem>
